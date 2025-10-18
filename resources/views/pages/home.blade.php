@@ -13,6 +13,7 @@
     font-weight: bold;
     font-size: 18px;
     text-align: center;
+    
 ">
     Profile Image
 </div>
